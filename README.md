@@ -4,7 +4,7 @@
 > 放入 Word 策划文档，其余全自动。支持任意游戏类型。
 > 
 
-<img src="https://github.com/dxawdc/gamedev-pipeline/blob/main/godot_pipeline_architecture.svg" alt="架构图" style="width:50%; height:auto;">
+<img src="./godot_pipeline_architecture.svg" alt="架构图" style="width:66%; height:auto;">
 ---
 
 ## 两步启动
