@@ -3,7 +3,7 @@
 > VSCode + Claude Code 插件
 > 放入 Word 策划文档，其余全自动。支持任意游戏类型。
 > 
-(img src="https://github.com/dxawdc/gamedev-pipeline/blob/main/godot_pipeline_architecture.svg" alt="架构图" width="50%")
+(img src="https://github.com/dxawdc/gamedev-pipeline/blob/main/godot_pipeline_architecture.svg" alt="架构图" style="width:50%; height:auto;")
 ---
 
 ## 两步启动
