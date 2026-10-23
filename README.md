@@ -2,7 +2,15 @@
 
 > VSCode + Claude Code 插件
 > 放入 Word 策划文档，其余全自动。支持任意游戏类型。
-> 
+>
+
+<!-- caige-author:start -->
+**作者：才哥** · 微信公众号：**可以叫我才哥**
+
+微信扫码关注：
+
+<img src="assets/caige-wechat-qrcode.jpg" alt="微信公众号「可以叫我才哥」扫码关注二维码" width="172" height="172" />
+<!-- caige-author:end -->
 
 <div align="center">
   <img src="./godot_pipeline_architecture.svg" alt="架构图" style="width:66%; height:auto;">
